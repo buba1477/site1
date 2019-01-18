@@ -1,11 +1,11 @@
 var lol = {
-"number": 0, 
-boolean: true,
-tstring: "foo",
-object: {
-    top: 90,
-    middle: 60,
-    bottom: 90
+"number": 0,
+"boolean": true,
+"string": "foo",
+"object": {
+    "top": 90,
+    "middle": 60,
+    "bottom": 90
 },
-null: null,
+"null": null,
 }
